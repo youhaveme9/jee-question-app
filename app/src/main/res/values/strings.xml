@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JEE Questions</string>
+    <string-array name="ques">
+        <item>JEE Advanced 2020 Paper-1</item>
+        <item>JEE Advanced 2020 Paper-2</item>
+        <item>About</item>
+    </string-array>
+</resources>
